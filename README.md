@@ -7,3 +7,9 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=winkersco&show_icons=true&include_all_commits=true)](https://github.com/winkersco/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winkersco&layout=compact)](https://github.com/winkersco/github-readme-stats)
+
+## Some of my useful repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=winkersco&repo=media-merger)](https://github.com/winkersco/media-merger)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=winkersco&repo=golang-url-generator)](https://github.com/winkersco/golang-url-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=winkersco&repo=wappalyzer)](https://github.com/winkersco/wappalyzer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=winkersco&repo=zap)](https://github.com/winkersco/zap)
