@@ -8,9 +8,10 @@
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>  
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=winkersco alt=winkersco /> </p>
+<img src="https://komarev.com/ghpvc/?username=winkersco" alt="winkersco" />
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=winkersco&show_icons=true&include_all_commits=true)](https://github.com/winkersco/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winkersco&layout=compact)](https://github.com/winkersco/)
 
 ## Some of my useful repos
