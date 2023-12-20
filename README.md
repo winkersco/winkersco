@@ -21,6 +21,11 @@
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=winkersco&)](https://github.com/winkersco/)
 
 ## Some of my Useful Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=winkersco&repo=product-review-system)](https://github.com/winkersco/product-review-system)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=winkersco&repo=simple-blog)](https://github.com/winkersco/simple-blog)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=winkersco&repo=media-merger)](https://github.com/winkersco/media-merger)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=winkersco&repo=golang-url-generator)](https://github.com/winkersco/golang-url-generator)
